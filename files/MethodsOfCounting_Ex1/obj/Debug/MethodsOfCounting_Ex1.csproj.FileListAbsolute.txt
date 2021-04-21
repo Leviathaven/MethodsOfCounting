@@ -1,0 +1,7 @@
+C:\Users\Raven\source\repos\MethodsOfCounting_Ex1\MethodsOfCounting_Ex1\bin\Debug\MethodsOfCounting_Ex1.exe.config
+C:\Users\Raven\source\repos\MethodsOfCounting_Ex1\MethodsOfCounting_Ex1\bin\Debug\MethodsOfCounting_Ex1.exe
+C:\Users\Raven\source\repos\MethodsOfCounting_Ex1\MethodsOfCounting_Ex1\bin\Debug\MethodsOfCounting_Ex1.pdb
+C:\Users\Raven\source\repos\MethodsOfCounting_Ex1\MethodsOfCounting_Ex1\obj\Debug\MethodsOfCounting_Ex1.csprojAssemblyReference.cache
+C:\Users\Raven\source\repos\MethodsOfCounting_Ex1\MethodsOfCounting_Ex1\obj\Debug\MethodsOfCounting_Ex1.exe
+C:\Users\Raven\source\repos\MethodsOfCounting_Ex1\MethodsOfCounting_Ex1\obj\Debug\MethodsOfCounting_Ex1.pdb
+C:\Users\Raven\source\repos\MethodsOfCounting_Ex1\MethodsOfCounting_Ex1\obj\Debug\MethodsOfCounting_Ex1.csproj.CoreCompileInputs.cache
